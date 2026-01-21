@@ -1,37 +1,23 @@
-# Art Store Management System – System Analysis & Design
+## Credit Risk Analysis – Business Analyst Perspective
 
-## Project Overview
-This project focuses on analyzing and designing an information system for managing an art store.
-The objective is to understand business processes, identify system requirements, and propose a structured system design to support store operations.
+### Business Objective
+Analyze customer credit risk to support loan approval decisions and reduce default risk in the finance and banking domain.
 
-## Business Problem
-Manual management of products, customers, and sales leads to inefficiencies, data inconsistency, and difficulty in tracking business performance.
-The system aims to improve operational efficiency and data management.
+### Business Context
+This project focuses on business analysis for credit risk assessment, using historical loan data to support data-driven decision-making.
 
-## Scope of Analysis
-- Analyze current business processes of an art store
-- Identify functional and non-functional requirements
-- Design system models to support management activities
+### Project Scope
+- Analyze credit risk from a business and system perspective
+- Identify key factors affecting loan default
+- Support credit approval and risk mitigation decisions
 
-## System Analysis & Design Artifacts
-- Business process analysis
-- Functional requirements specification
-- Use Case Diagram
-- Data Flow Diagram (DFD)
-- Entity Relationship Diagram (ERD)
-- System architecture overview
+### Project Artifacts
+- Business analysis report (PDF)
+- System and business diagrams (Use Case, DFD, ERD)
 
-## Deliverables
-- Full system analysis and design documentation (PDF)
-- Business-oriented system modeling without implementation
+### Key Insights
+- Credit risk is strongly influenced by interest rate, credit score, income, and debt-to-income ratio (DTI).
+- Structured analysis helps improve decision quality and reduce potential losses.
 
-## Tools & Methods
-- UML modeling
-- Data Flow Diagram (DFD)
-- Requirement analysis techniques
-- System analysis methodology
-
-## Note
-This project focuses on **system analysis and design** from a **Business Analyst perspective**.
-No software implementation or coding is included.
-
+### Tools & Methods
+Business Analysis, Requirement Analysis, Data Analysis, System Modeling
