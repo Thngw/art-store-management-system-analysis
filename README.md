@@ -1,11 +1,11 @@
-### System Analysis & Design Project 
+## System Analysis & Design Project 
 
-## Project Overview
+### Project Overview
 
 - This project focuses on system analysis and design for an art store management system, developed as part of the System Analysis and Design course.
 - The goal is to analyze business processes, define system requirements, and model data and information flows to support effective store operations.
 
-## Business Scope
+### Business Scope
 
 The system supports core business functions of an art store, including:
 
@@ -21,7 +21,7 @@ The system supports core business functions of an art store, including:
 
 - Reporting and decision support
 
-## Business Analysis Activities
+### Business Analysis Activities
 
 - Analyze business requirements and stakeholder needs
 
@@ -31,7 +31,7 @@ The system supports core business functions of an art store, including:
 
 - Design conceptual and logical data models
 
-## System Diagrams
+### System Diagrams
 
 This repository includes key system analysis diagrams:
 
@@ -43,15 +43,15 @@ This repository includes key system analysis diagrams:
 
 - Relational Data Model (RDM)
 
-## Project Artifacts
+### Project Artifacts
 
 - System analysis report (PDF)
 
 - System and data modeling diagrams (BFD, DFD, ERD, RDM)
 
-## Note: This project focuses on analysis and design, not system implementation or coding.
+### Note: This project focuses on analysis and design, not system implementation or coding.
 
-## Role & Skills Demonstrated
+### Role & Skills Demonstrated
 
 - Business & system requirement analysis
 
