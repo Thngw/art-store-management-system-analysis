@@ -1,25 +1,62 @@
-## Credit Risk Analysis – Business Analyst Perspective
+System Analysis & Design Project 
 
-### Business Objective
-Analyze customer credit risk to support loan approval decisions and reduce default risk in the finance and banking domain.
+Project Overview
 
-### Business Context
-This project focuses on business analysis for credit risk assessment, using historical loan data to support data-driven decision-making.
+This project focuses on system analysis and design for an art store management system, developed as part of the System Analysis and Design course.
+The goal is to analyze business processes, define system requirements, and model data and information flows to support effective store operations.
 
-### Project Scope
-- Analyze credit risk from a business and system perspective
-- Identify key factors affecting loan default
-- Support credit approval and risk mitigation decisions
+Business Scope
 
-### Project Artifacts
-- Business analysis report (PDF)
-- System and business diagrams (Use Case, DFD, ERD)
+The system supports core business functions of an art store, including:
 
-### Key Insights
-- Credit risk is strongly influenced by interest rate, credit score, income, and debt-to-income ratio (DTI).
-- Structured analysis helps improve decision quality and reduce potential losses.
+Artwork management
 
-### Tools & Methods
-Business Analysis, Requirement Analysis, Data Analysis, System Modeling
-### Project Documentation
-Full project report (PDF): https://drive.google.com/file/d/1mQ-svaSi-kiJqeAtKF-3eWZtpopcVTRp/view?usp=sharing
+Sales and order processing
+
+Customer management
+
+Inventory management
+
+Employee management
+
+Reporting and decision support
+
+Business Analysis Activities
+
+Analyze business requirements and stakeholder needs
+
+Identify system boundaries and functional decomposition
+
+Model business processes and data flows
+
+Design conceptual and logical data models
+
+System Diagrams
+
+This repository includes key system analysis diagrams:
+
+Business Function Decomposition Diagram (BFD)
+
+Data Flow Diagrams (DFD): Context level, Level 0, and selected Level 1 & 2 processes
+
+Entity Relationship Diagram (ERD)
+
+Relational Data Model (RDM)
+
+Project Artifacts
+
+System analysis report (PDF)
+
+System and data modeling diagrams (BFD, DFD, ERD, RDM)
+
+Note: This project focuses on analysis and design, not system implementation or coding.
+
+Role & Skills Demonstrated
+
+Business & system requirement analysis
+
+Business process modeling
+
+Data modeling and system thinking
+
+Documentation and analytical reporting
