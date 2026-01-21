@@ -60,3 +60,6 @@ This repository includes key system analysis diagrams:
 - Data modeling and system thinking
 
 - Documentation and analytical reporting
+### Project Documentation
+
+Full project report (PDF): https://drive.google.com/file/d/1mQ-svaSi-kiJqeAtKF-3eWZtpopcVTRp/view?usp=sharing
